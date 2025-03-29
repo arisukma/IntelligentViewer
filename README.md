@@ -1,4 +1,4 @@
-# DokuAI: Intelligent DocumentViewer with AI-Powered Question Answering
+# DokuAI: Intelligent Document Viewer with AI-Powered Question Answering
 
 An intelligent document viewer system that makes your documents searchable and answerable with state-of-the-art AI.
 
