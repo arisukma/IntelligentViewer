@@ -74,7 +74,7 @@ The system is built on a modern stack with several key components:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/docsai.git
+   git clone https://github.com/arisukma/IntelligentViewer
    cd docsai
    ```
 
